@@ -1,0 +1,17 @@
+Kevin Hall
+Open Scource repositories.
+
+1) https://github.com/jwasham/coding-interview-university/blob/main/README.md
+This repesitory is really interesting because it holds notes and an itinerary on how to become a software engineer.  The author explains how this study guide led to him getting a job at google after just a few months of dedicated learning.
+
+2) https://github.com/Unity-Technologies/UnityCsReference
+This project is very useful because it contains a lot of scource code for commonly written functions used in c# for the Unity Engine.
+
+3)https://github.com/isocpp/CppCoreGuidelines
+I appreciatted looking through this repository and its contents, for it holds a ton of information about coding ediquiette and guidelines for c++ programming.  I found this to be particularily important for in the profressional world you are expected to abide by a certain magnitude of cleanliness in your code.
+
+4)https://github.com/cnjinhao/nana
+Recently I have been doing a side project of creating a GUI like notepad but all the drop-downs will be used to house algorithms, scource code, ext.  This repository is a GUI library that i want to take a look through for ideas on orginization.  This repository is for c++ I have made GUI's in Java before so this will be nice to learn.  I also want to minimize the amount of windows forms is used and focus on hard coding.
+
+5)https://github.com/kennyma/gitignore
+This repository contains a .gitignore file that is useable across most operating systems, and helps clean and not include files you do not want to slip into your personal git repository.
